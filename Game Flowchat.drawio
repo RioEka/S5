@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T12:41:10.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="C_QR-kLvWq3jORm98OrI" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T12:42:41.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="q8WyTuUXtwCDO9sekWTz" version="21.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1035" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,9 +36,12 @@
             <Array as="points">
               <mxPoint x="180" y="460" />
               <mxPoint x="320" y="460" />
-              <mxPoint x="320" y="170" />
+              <mxPoint x="320" y="30" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OI57rXE7ug-RvD7WbRAe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AFjkLE0SlQJJLJoKXEfr-5" target="OI57rXE7ug-RvD7WbRAe-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AFjkLE0SlQJJLJoKXEfr-5" value="Main Menu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="380" width="120" height="40" as="geometry" />
@@ -133,7 +136,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AFjkLE0SlQJJLJoKXEfr-46" value="Workshop" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="390" y="150" width="120" height="40" as="geometry" />
+          <mxGeometry x="390" y="10" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AFjkLE0SlQJJLJoKXEfr-51" value="- Preview lokasi&amp;nbsp;&lt;br&gt;- Backstory lokasi&lt;br&gt;- Info Boss (kit &amp;amp; abylity)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="820" width="170" height="60" as="geometry" />
@@ -226,19 +229,22 @@
           <mxGeometry x="360" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AFjkLE0SlQJJLJoKXEfr-104" value="Gear Setting &amp;amp; Inventory" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="390" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="390" y="100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X9rj4Kq2Ay1AnmOOGXKO-0" value="- List Senjata&lt;br&gt;- List Ammo (sisa ammo nya)&lt;br&gt;- Pengaturan Equip Senjata&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- pengaturan Ammo yang dibawa." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="390" y="280" width="170" height="80" as="geometry" />
+          <mxGeometry x="390" y="140" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="X9rj4Kq2Ay1AnmOOGXKO-6" value="Crafting" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="620" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="620" y="100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X9rj4Kq2Ay1AnmOOGXKO-9" value="- lu bisa buat senjata &amp;amp; Ammo yang ada dengan mengumpulkan material yang dibutuhkan" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="620" y="280" width="190" height="60" as="geometry" />
+          <mxGeometry x="620" y="140" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OI57rXE7ug-RvD7WbRAe-2" value="Key Control Setting" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OI57rXE7ug-RvD7WbRAe-5" value="How to Play" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="500" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
