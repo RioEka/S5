@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T03:45:27.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="t__-Szu3AYJCiAt68cxe" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T03:54:02.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="1c9AEMQ_Md9_wjXvJVnb" version="21.6.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="880" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -733,17 +733,28 @@
         <mxCell id="ittFnhHVfGso3bpp5d0w-17" value="My Hp = 0" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="3160" y="260" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="pzwriuinVe4fA6d8zMVh-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ittFnhHVfGso3bpp5d0w-19" target="ittFnhHVfGso3bpp5d0w-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ittFnhHVfGso3bpp5d0w-19" value="Knock-Down" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="3140" y="155" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pzwriuinVe4fA6d8zMVh-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ittFnhHVfGso3bpp5d0w-20" target="ittFnhHVfGso3bpp5d0w-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pzwriuinVe4fA6d8zMVh-25" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pzwriuinVe4fA6d8zMVh-13">
+          <mxGeometry x="-0.0588" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pzwriuinVe4fA6d8zMVh-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ittFnhHVfGso3bpp5d0w-20" target="8EJLCelZ47ziq0G31s2w-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ittFnhHVfGso3bpp5d0w-20" value="taken to prison" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="3160" y="10" width="80" height="80" as="geometry" />
+          <mxGeometry x="3000" y="145" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ittFnhHVfGso3bpp5d0w-21" value="Ally in prison and can&#39;t be use" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="3000" y="27.5" width="120" height="45" as="geometry" />
+          <mxGeometry x="2980" y="57.5" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="pzwriuinVe4fA6d8zMVh-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ittFnhHVfGso3bpp5d0w-27" target="pzwriuinVe4fA6d8zMVh-3">
           <mxGeometry relative="1" as="geometry" />
