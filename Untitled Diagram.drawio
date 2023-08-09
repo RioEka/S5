@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T03:33:07.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="wxoVsHVzI6BedK2ilhsl" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T03:37:07.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="aVjFNGLZ1-D-7zN2GExz" version="21.6.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="880" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -753,13 +753,17 @@
         <mxCell id="ittFnhHVfGso3bpp5d0w-21" value="Ally in prison and can&#39;t be use" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="3140" y="815" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="pzwriuinVe4fA6d8zMVh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ittFnhHVfGso3bpp5d0w-27">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2950" y="380" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="pzwriuinVe4fA6d8zMVh-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ittFnhHVfGso3bpp5d0w-27" target="pzwriuinVe4fA6d8zMVh-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ittFnhHVfGso3bpp5d0w-27" value="Enemy&lt;br&gt;Hp = 0" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2990" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pzwriuinVe4fA6d8zMVh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pzwriuinVe4fA6d8zMVh-3" target="8EJLCelZ47ziq0G31s2w-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pzwriuinVe4fA6d8zMVh-3" value="Run to change&amp;nbsp; position" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2800" y="356.25" width="120" height="47.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
