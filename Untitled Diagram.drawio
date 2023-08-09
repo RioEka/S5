@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T02:36:27.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="u8ke6rRRUE3lPL2humBW" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T03:20:40.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="i4dgC_9Zb_na81iVpY7v" version="21.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="880" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -697,10 +697,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ittFnhHVfGso3bpp5d0w-5" value="Chase Enemies" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2800" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="2810" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ittFnhHVfGso3bpp5d0w-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ittFnhHVfGso3bpp5d0w-9" target="ittFnhHVfGso3bpp5d0w-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ittFnhHVfGso3bpp5d0w-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ittFnhHVfGso3bpp5d0w-9" target="ittFnhHVfGso3bpp5d0w-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ittFnhHVfGso3bpp5d0w-9" value="Attack Enemi" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2960" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="2970" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ittFnhHVfGso3bpp5d0w-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ittFnhHVfGso3bpp5d0w-12" target="ittFnhHVfGso3bpp5d0w-5">
           <mxGeometry relative="1" as="geometry" />
@@ -712,6 +718,45 @@
         </mxCell>
         <mxCell id="ittFnhHVfGso3bpp5d0w-12" value="Apakah dia Ally" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2680" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ittFnhHVfGso3bpp5d0w-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ittFnhHVfGso3bpp5d0w-17" target="ittFnhHVfGso3bpp5d0w-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ittFnhHVfGso3bpp5d0w-25" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ittFnhHVfGso3bpp5d0w-22">
+          <mxGeometry x="-0.617" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ittFnhHVfGso3bpp5d0w-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ittFnhHVfGso3bpp5d0w-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3200" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ittFnhHVfGso3bpp5d0w-17" value="My Hp = 0" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3160" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ittFnhHVfGso3bpp5d0w-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ittFnhHVfGso3bpp5d0w-19" target="ittFnhHVfGso3bpp5d0w-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ittFnhHVfGso3bpp5d0w-19" value="Knock-Down" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3140" y="573" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ittFnhHVfGso3bpp5d0w-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ittFnhHVfGso3bpp5d0w-20" target="ittFnhHVfGso3bpp5d0w-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ittFnhHVfGso3bpp5d0w-26" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ittFnhHVfGso3bpp5d0w-24">
+          <mxGeometry x="-0.0182" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ittFnhHVfGso3bpp5d0w-20" value="taken to prison" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3160" y="680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ittFnhHVfGso3bpp5d0w-21" value="Ally in prison and can&#39;t be use" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3140" y="815" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ittFnhHVfGso3bpp5d0w-27" value="Enemy&lt;br&gt;Hp = 0" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2990" y="340" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
