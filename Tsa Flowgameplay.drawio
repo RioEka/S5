@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T05:45:33.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="z-YNUqLHWCXNN5IPgXG_" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-16T05:46:11.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="LmlGIr5njnGR2cEokOjb" version="21.6.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2002" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1638" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -183,7 +183,7 @@
         <mxCell id="tjQyPLUZTU_H-51XyJgd-154" value="Dibuka ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="1280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tjQyPLUZTU_H-51XyJgd-156" value="[Ending]&lt;br&gt;Dead" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tjQyPLUZTU_H-51XyJgd-156" value="[Ending]&lt;br&gt;Dead" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="1290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tjQyPLUZTU_H-51XyJgd-182" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tjQyPLUZTU_H-51XyJgd-158" target="tjQyPLUZTU_H-51XyJgd-179">
@@ -256,7 +256,7 @@
         <mxCell id="tjQyPLUZTU_H-51XyJgd-200" value="Dibuka" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="1930" width="120" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="tjQyPLUZTU_H-51XyJgd-202" value="[Ending]&lt;br&gt;Makan" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tjQyPLUZTU_H-51XyJgd-202" value="[Ending]&lt;br&gt;Makan" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="2020" width="120" height="46" as="geometry" />
         </mxCell>
       </root>
