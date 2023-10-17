@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T12:59:42.551Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="3JFnODaF7n8GYIWrukr6" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T06:38:32.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="xpg_MbvKPPcm79tkTWIs" version="22.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1354" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -790,17 +790,32 @@
         <mxCell id="pzwriuinVe4fA6d8zMVh-6" value="My Hp &lt;br&gt;&amp;lt;= 10%" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="3160" y="460" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hD0oQq2HQBS69Gk4V9zw-1" value="Bentuk FSM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hD0oQq2HQBS69Gk4V9zw-1" value="Bentuk FSM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="1200" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hD0oQq2HQBS69Gk4V9zw-2" value="Attacker" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hD0oQq2HQBS69Gk4V9zw-2" value="Attacker" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="1250" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hD0oQq2HQBS69Gk4V9zw-4" value="Attack" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hD0oQq2HQBS69Gk4V9zw-4" value="Attack" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="1300" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hD0oQq2HQBS69Gk4V9zw-5" value="Prison" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="1400" width="90" height="40" as="geometry" />
+        <mxCell id="hD0oQq2HQBS69Gk4V9zw-5" value="Idle" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="110" y="1400" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UXboRyEB7FdG2fVCUcI_-0" value="ToBenteng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="1400" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UXboRyEB7FdG2fVCUcI_-1" value="ChaseTarget" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="1400" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UXboRyEB7FdG2fVCUcI_-2" value="ShootTarget" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="1520" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UXboRyEB7FdG2fVCUcI_-4" value="KnockDown" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="1560" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UXboRyEB7FdG2fVCUcI_-5" value="InPrisoned" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="1680" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
