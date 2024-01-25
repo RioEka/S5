@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T06:22:20.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="v3ebDE-_yFUjyYCQukZD" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T06:28:53.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="-SEf_6R-yCtSpD8lo3WE" version="23.0.1" type="github">
   <diagram name="Page-1" id="PAmlABkw8AqGcg0zfsbD">
     <mxGraphModel dx="1035" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -29,6 +29,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R9gAzU4-4KS_lakZ7gdE-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="R9gAzU4-4KS_lakZ7gdE-4" target="R9gAzU4-4KS_lakZ7gdE-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R9gAzU4-4KS_lakZ7gdE-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R9gAzU4-4KS_lakZ7gdE-4" target="R9gAzU4-4KS_lakZ7gdE-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R9gAzU4-4KS_lakZ7gdE-4" value="Main Menu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -102,6 +105,23 @@
         </mxCell>
         <mxCell id="R9gAzU4-4KS_lakZ7gdE-30" value="Press y to join party" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R9gAzU4-4KS_lakZ7gdE-35" value="Battle Begin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R9gAzU4-4KS_lakZ7gdE-37" value="Freeroom 1 School" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R9gAzU4-4KS_lakZ7gdE-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R9gAzU4-4KS_lakZ7gdE-39" target="R9gAzU4-4KS_lakZ7gdE-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R9gAzU4-4KS_lakZ7gdE-41" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R9gAzU4-4KS_lakZ7gdE-40">
+          <mxGeometry x="-0.1947" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R9gAzU4-4KS_lakZ7gdE-39" value="If 3 Player Vote minigame" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="469" y="699" width="102" height="102" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
