@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T06:44:44.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="1V9QaitZnp7tkX3WUzEh" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T06:47:31.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="p79Ca4OSxFWzveV_MD7H" version="23.0.1" type="github">
   <diagram name="Page-1" id="PAmlABkw8AqGcg0zfsbD">
     <mxGraphModel dx="1035" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
         <mxCell id="R9gAzU4-4KS_lakZ7gdE-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R9gAzU4-4KS_lakZ7gdE-37" target="R9gAzU4-4KS_lakZ7gdE-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R9gAzU4-4KS_lakZ7gdE-37" value="Freeroom 1 School" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R9gAzU4-4KS_lakZ7gdE-37" value="Freeroom 1 School&lt;br&gt;(Time Cooldown)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R9gAzU4-4KS_lakZ7gdE-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R9gAzU4-4KS_lakZ7gdE-39" target="R9gAzU4-4KS_lakZ7gdE-37">
