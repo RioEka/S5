@@ -1,9 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2024-01-26T13:22:05.909Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.0.1" etag="F6dZtfpumx53zpdqL_E7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-26T13:42:59.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="u_QZ_aIAy2oGtM9WWW4v" version="23.0.1" type="github">
   <diagram name="Page-1" id="N2ruBHoGZCZA3nB9Yc_V">
-    <mxGraphModel>
+    <mxGraphModel dx="1035" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HMO_7fgYcS76zNm1WgYr-1" target="HMO_7fgYcS76zNm1WgYr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-1" value="Lock Screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HMO_7fgYcS76zNm1WgYr-3" target="HMO_7fgYcS76zNm1WgYr-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-3" value="Cut Sceen&lt;br&gt;Watch vtuber" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HMO_7fgYcS76zNm1WgYr-4" target="HMO_7fgYcS76zNm1WgYr-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-4" value="Button Download Ads blocker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-5" value="Downloading" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HMO_7fgYcS76zNm1WgYr-7" target="HMO_7fgYcS76zNm1WgYr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-7" value="Serangan Ads" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HMO_7fgYcS76zNm1WgYr-8" target="HMO_7fgYcS76zNm1WgYr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-8" value="Button Instaling Adsblocker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-9" value="Instaling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HMO_7fgYcS76zNm1WgYr-10" target="HMO_7fgYcS76zNm1WgYr-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-10" value="Serangan Ads Lvl 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HMO_7fgYcS76zNm1WgYr-11" target="HMO_7fgYcS76zNm1WgYr-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-11" value="Notifikation&lt;br&gt;&quot;Virus berhasil terinstal&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HMO_7fgYcS76zNm1WgYr-15" target="HMO_7fgYcS76zNm1WgYr-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="590" />
+              <mxPoint x="240" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-18" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HMO_7fgYcS76zNm1WgYr-17">
+          <mxGeometry x="-0.8251" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HMO_7fgYcS76zNm1WgYr-15" target="HMO_7fgYcS76zNm1WgYr-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-24" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HMO_7fgYcS76zNm1WgYr-21">
+          <mxGeometry x="-0.9266" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-15" value="Berhasil Survive&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HMO_7fgYcS76zNm1WgYr-16" target="HMO_7fgYcS76zNm1WgYr-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-23" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HMO_7fgYcS76zNm1WgYr-22">
+          <mxGeometry x="-0.3513" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HMO_7fgYcS76zNm1WgYr-16" target="HMO_7fgYcS76zNm1WgYr-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="580" />
+              <mxPoint x="420" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-16" value="Berhasil Survive&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-20" value="Gameover" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HMO_7fgYcS76zNm1WgYr-28" value="Muncul Iklan &amp;gt; Memnuhi Layar &amp;gt; BlueScreen" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
